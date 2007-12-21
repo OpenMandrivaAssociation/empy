@@ -11,6 +11,7 @@ Group:		Text tools
 Source0:	%{name}-%{version}.tar.bz2
 URL:		http://www.alcyone.com/pyos/empy/
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-root
 Requires:	python
 
 %description
