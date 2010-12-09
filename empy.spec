@@ -1,6 +1,6 @@
 %define name	empy
 %define version	3.3
-%define release	 %mkrel 5
+%define release	 %mkrel 6
 
 Summary:	System for embedding Python expressions and statements in template text
 Name:		%name
