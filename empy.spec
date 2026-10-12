@@ -2,7 +2,7 @@
 
 Name:		empy
 Version:	4.2.1
-Release:	1
+Release:	2
 Summary:	A python templating system for inserting Python code in template text
 License:	BSD-3-Clause
 Group:		Text tools
